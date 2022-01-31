@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83778842439",
+    "project_id": "hacktest-eeb2a",
+    "storage_bucket": "hacktest-eeb2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83778842439:android:d354521be020847b6a2662",
+        "android_client_info": {
+          "package_name": "com.example.hackadhon_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83778842439-0nq8evm5srr4qe0lbtb39fnhebarh8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK-VwFFnEWSUAMXnX0e8EpBqRSyu1otoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83778842439-0nq8evm5srr4qe0lbtb39fnhebarh8ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
